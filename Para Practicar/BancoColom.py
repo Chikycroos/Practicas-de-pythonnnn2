@@ -5,7 +5,7 @@ import os
 TASA_CAMBIO_DOLAR = 580.00
 SALDO_INICIAL = 45897.00 # Saldo en Colones (₡)
 
-# tec
+# tec frt
 class CajeroAutomatico:
     def __init__(self, saldo_inicial, tasa_dolar):
         self.saldo_actual = saldo_inicial
